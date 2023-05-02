@@ -1,4 +1,4 @@
-# Waste app with Streamlit
+# Waste classification app with Streamlit
 
 ## General info
 
